@@ -1,2 +1,5 @@
 # dzdp_comment_spider
 大众点评评论字体加密解决方案
+
+get_comment.py 中填写cookie、shopid_list 即可启动
+目前字体方案共两种，按需引入不同dianping_get_css_url.py or new_dianping_get_css_url.py文件即可
